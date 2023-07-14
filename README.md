@@ -1,3 +1,18 @@
+# Multi-Language-Sample-Project-Using-PHP-Codeigniter4
+## To run this project need local host like XAMPP Server and MySQL server on XAMPP (Install XAMPP Server)
+## Database - MySQL, PHP 8.1.2,XAMPP 8.1.2
+## IDE - Visual Studio Code
+## [Localization Codeigniter 4 Documentation](https://codeigniter4.github.io/userguide/outgoing/localization.html)
+
+### Steps :
+##### 1) Install XAMPP Server and composer
+##### 2) Start Apache server and MySQL server in XAMPP Controler
+##### 3) All projects must be created in installed location of XAMPP --> htdocs --> folder name of project (Clone the project to this location)
+##### 4) In the folder root (XAMPP --> htdocs --> folder name) you must run ```composer install``` command using CMD in the root folder path
+##### 5) To run this project --> In the web browser(Chrome etc) --> localhost/folder_Name/public/ (http://localhost/folderName/public/)
+##### 6) Go to chrome and enter URL as → localhost/phpmyadmin (To access MySQL Database) or using MySQL Workbench
+##### 7) Create database and tables in MySQL Server you want (todos table used in that project)
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
