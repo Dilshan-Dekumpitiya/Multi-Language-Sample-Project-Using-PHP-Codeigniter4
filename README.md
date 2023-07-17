@@ -2,7 +2,7 @@
 ## To run this project need local host like XAMPP Server and MySQL server on XAMPP (Install XAMPP Server)
 ## Develop IDE - Visual Studio Code
 ## [Localization Codeigniter 4 Documentation](https://codeigniter4.github.io/userguide/outgoing/localization.html)
-## [You can follow these steps](https://onlinewebtutorblog.com/create-multilingual-website-in-codeigniter-4/)
+## [Steps](https://onlinewebtutorblog.com/create-multilingual-website-in-codeigniter-4/)
 
 ### Steps :
 ##### 1) Install XAMPP Server and Composer (PHP 8.1.2)
