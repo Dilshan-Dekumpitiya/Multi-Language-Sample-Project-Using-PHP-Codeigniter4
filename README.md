@@ -3,6 +3,7 @@
 ## Database - MySQL, PHP 8.1.2,XAMPP 8.1.2
 ## IDE - Visual Studio Code
 ## [Localization Codeigniter 4 Documentation](https://codeigniter4.github.io/userguide/outgoing/localization.html)
+## [You can follow these steps as you want](https://onlinewebtutorblog.com/create-multilingual-website-in-codeigniter-4/#Create_View_Layout_Files)
 
 ### Steps :
 ##### 1) Install XAMPP Server and composer
